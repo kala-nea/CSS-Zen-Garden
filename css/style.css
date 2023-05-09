@@ -14,7 +14,7 @@ div.page-wrapper {
 }
 
 :root {
-    background-image: url(https://images.pexels.com/photos/539694/pexels-photo-539694.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-image: url("pexels-photo-539694.png");
     background-repeat: no-repeat;
     background-size: auto 150vh;
     background-position: center;
